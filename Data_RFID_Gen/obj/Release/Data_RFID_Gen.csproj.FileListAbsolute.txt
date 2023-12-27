@@ -1,0 +1,17 @@
+C:\Users\Ediso\OneDrive\Documentos\IUDC\POO .NET\Ejercicios c#\Data_RFID_Gen\Data_RFID_Gen\bin\Release\Data_RFID_Gen.exe.config
+C:\Users\Ediso\OneDrive\Documentos\IUDC\POO .NET\Ejercicios c#\Data_RFID_Gen\Data_RFID_Gen\bin\Release\Data_RFID_Gen.exe
+C:\Users\Ediso\OneDrive\Documentos\IUDC\POO .NET\Ejercicios c#\Data_RFID_Gen\Data_RFID_Gen\bin\Release\Data_RFID_Gen.pdb
+C:\Users\Ediso\OneDrive\Documentos\IUDC\POO .NET\Ejercicios c#\Data_RFID_Gen\Data_RFID_Gen\bin\Release\es-419\Data_RFID_Gen.resources.dll
+C:\Users\Ediso\OneDrive\Documentos\IUDC\POO .NET\Ejercicios c#\Data_RFID_Gen\Data_RFID_Gen\obj\Release\Data_RFID_Gen.csproj.AssemblyReference.cache
+C:\Users\Ediso\OneDrive\Documentos\IUDC\POO .NET\Ejercicios c#\Data_RFID_Gen\Data_RFID_Gen\obj\Release\Data_RFID_Gen.Form1.resources
+C:\Users\Ediso\OneDrive\Documentos\IUDC\POO .NET\Ejercicios c#\Data_RFID_Gen\Data_RFID_Gen\obj\Release\Data_RFID_Gen.Properties.Resources.resources
+C:\Users\Ediso\OneDrive\Documentos\IUDC\POO .NET\Ejercicios c#\Data_RFID_Gen\Data_RFID_Gen\obj\Release\Data_RFID_Gen.Form1.es-419.resources
+C:\Users\Ediso\OneDrive\Documentos\IUDC\POO .NET\Ejercicios c#\Data_RFID_Gen\Data_RFID_Gen\obj\Release\Data_RFID_Gen.csproj.GenerateResource.cache
+C:\Users\Ediso\OneDrive\Documentos\IUDC\POO .NET\Ejercicios c#\Data_RFID_Gen\Data_RFID_Gen\obj\Release\Data_RFID_Gen.csproj.CoreCompileInputs.cache
+C:\Users\Ediso\OneDrive\Documentos\IUDC\POO .NET\Ejercicios c#\Data_RFID_Gen\Data_RFID_Gen\obj\Release\es-419\Data_RFID_Gen.resources.dll
+C:\Users\Ediso\OneDrive\Documentos\IUDC\POO .NET\Ejercicios c#\Data_RFID_Gen\Data_RFID_Gen\obj\Release\Data_RFID_Gen.exe
+C:\Users\Ediso\OneDrive\Documentos\IUDC\POO .NET\Ejercicios c#\Data_RFID_Gen\Data_RFID_Gen\obj\Release\Data_RFID_Gen.pdb
+C:\Users\Ediso\OneDrive\Documentos\IUDC\POO .NET\Ejercicios c#\Data_RFID_Gen\Data_RFID_Gen\bin\Release\Data_RFID_Gen.exe.manifest
+C:\Users\Ediso\OneDrive\Documentos\IUDC\POO .NET\Ejercicios c#\Data_RFID_Gen\Data_RFID_Gen\bin\Release\Data_RFID_Gen.application
+C:\Users\Ediso\OneDrive\Documentos\IUDC\POO .NET\Ejercicios c#\Data_RFID_Gen\Data_RFID_Gen\obj\Release\Data_RFID_Gen.exe.manifest
+C:\Users\Ediso\OneDrive\Documentos\IUDC\POO .NET\Ejercicios c#\Data_RFID_Gen\Data_RFID_Gen\obj\Release\Data_RFID_Gen.application
