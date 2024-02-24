@@ -12,3 +12,25 @@ C:\Users\Ediso\OneDrive\Documentos\IUDC\POO .NET\Ejercicios c#\Data_RFID_Gen\Dat
 C:\Users\Ediso\OneDrive\Documentos\IUDC\POO .NET\Ejercicios c#\Data_RFID_Gen\Data_RFID_Gen\obj\Debug\Data_RFID_Gen.application
 C:\Users\Ediso\OneDrive\Documentos\IUDC\POO .NET\Ejercicios c#\Data_RFID_Gen\Data_RFID_Gen\obj\Debug\Data_RFID_Gen.exe
 C:\Users\Ediso\OneDrive\Documentos\IUDC\POO .NET\Ejercicios c#\Data_RFID_Gen\Data_RFID_Gen\obj\Debug\Data_RFID_Gen.pdb
+C:\Users\Ediso\OneDrive\Documentos\Desarrollo\Apps\Data_RFID_Gen\DataRFIDGen\Data_RFID_Gen\bin\Debug\Data_RFID_Gen.exe.config
+C:\Users\Ediso\OneDrive\Documentos\Desarrollo\Apps\Data_RFID_Gen\DataRFIDGen\Data_RFID_Gen\bin\Debug\Data_RFID_Gen.exe.manifest
+C:\Users\Ediso\OneDrive\Documentos\Desarrollo\Apps\Data_RFID_Gen\DataRFIDGen\Data_RFID_Gen\bin\Debug\Data_RFID_Gen.application
+C:\Users\Ediso\OneDrive\Documentos\Desarrollo\Apps\Data_RFID_Gen\DataRFIDGen\Data_RFID_Gen\bin\Debug\Data_RFID_Gen.exe
+C:\Users\Ediso\OneDrive\Documentos\Desarrollo\Apps\Data_RFID_Gen\DataRFIDGen\Data_RFID_Gen\bin\Debug\Data_RFID_Gen.pdb
+C:\Users\Ediso\OneDrive\Documentos\Desarrollo\Apps\Data_RFID_Gen\DataRFIDGen\Data_RFID_Gen\obj\Debug\Data_RFID_Gen.csproj.AssemblyReference.cache
+C:\Users\Ediso\OneDrive\Documentos\Desarrollo\Apps\Data_RFID_Gen\DataRFIDGen\Data_RFID_Gen\obj\Debug\Data_RFID_Gen.Form1.resources
+C:\Users\Ediso\OneDrive\Documentos\Desarrollo\Apps\Data_RFID_Gen\DataRFIDGen\Data_RFID_Gen\obj\Debug\Data_RFID_Gen.Properties.Resources.resources
+C:\Users\Ediso\OneDrive\Documentos\Desarrollo\Apps\Data_RFID_Gen\DataRFIDGen\Data_RFID_Gen\obj\Debug\Data_RFID_Gen.csproj.GenerateResource.cache
+C:\Users\Ediso\OneDrive\Documentos\Desarrollo\Apps\Data_RFID_Gen\DataRFIDGen\Data_RFID_Gen\obj\Debug\Data_RFID_Gen.csproj.CoreCompileInputs.cache
+C:\Users\Ediso\OneDrive\Documentos\Desarrollo\Apps\Data_RFID_Gen\DataRFIDGen\Data_RFID_Gen\obj\Debug\Data_RFID_Gen.exe.manifest
+C:\Users\Ediso\OneDrive\Documentos\Desarrollo\Apps\Data_RFID_Gen\DataRFIDGen\Data_RFID_Gen\obj\Debug\Data_RFID_Gen.application
+C:\Users\Ediso\OneDrive\Documentos\Desarrollo\Apps\Data_RFID_Gen\DataRFIDGen\Data_RFID_Gen\obj\Debug\Data_RFID_Gen.exe
+C:\Users\Ediso\OneDrive\Documentos\Desarrollo\Apps\Data_RFID_Gen\DataRFIDGen\Data_RFID_Gen\obj\Debug\Data_RFID_Gen.pdb
+C:\Users\Ediso\OneDrive\Documentos\Desarrollo\Apps\Data_RFID_Gen\DataRFIDGen\Data_RFID_Gen\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Ediso\OneDrive\Documentos\Desarrollo\Apps\Data_RFID_Gen\DataRFIDGen\Data_RFID_Gen\bin\Debug\ExcelDataReader.dll
+C:\Users\Ediso\OneDrive\Documentos\Desarrollo\Apps\Data_RFID_Gen\DataRFIDGen\Data_RFID_Gen\bin\Debug\ExcelDataReader.pdb
+C:\Users\Ediso\OneDrive\Documentos\Desarrollo\Apps\Data_RFID_Gen\DataRFIDGen\Data_RFID_Gen\bin\Debug\ExcelDataReader.xml
+C:\Users\Ediso\OneDrive\Documentos\Desarrollo\Apps\Data_RFID_Gen\DataRFIDGen\Data_RFID_Gen\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Ediso\OneDrive\Documentos\Desarrollo\Apps\Data_RFID_Gen\DataRFIDGen\Data_RFID_Gen\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Ediso\OneDrive\Documentos\Desarrollo\Apps\Data_RFID_Gen\DataRFIDGen\Data_RFID_Gen\obj\Debug\Data_RFI.185FF871.Up2Date
+C:\Users\Ediso\OneDrive\Documentos\Desarrollo\Apps\Data_RFID_Gen\DataRFIDGen\Data_RFID_Gen\obj\Debug\Data_RFID_Gen.csproj.ResolveComReference.cache

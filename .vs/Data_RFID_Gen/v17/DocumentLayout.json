@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ediso\\OneDrive\\Documentos\\Desarrollo\\Apps\\Data_RFID_Gen\\DataRFIDGen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6C4238-2C8E-4D0B-B645-F990EDF2551E}|Data_RFID_Gen\\Data_RFID_Gen.csproj|C:\\Users\\Ediso\\OneDrive\\Documentos\\Desarrollo\\Apps\\Data_RFID_Gen\\DataRFIDGen\\data_rfid_gen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A6C4238-2C8E-4D0B-B645-F990EDF2551E}|Data_RFID_Gen\\Data_RFID_Gen.csproj|solutionrelative:data_rfid_gen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6C4238-2C8E-4D0B-B645-F990EDF2551E}|Data_RFID_Gen\\Data_RFID_Gen.csproj|c:\\users\\ediso\\onedrive\\documentos\\desarrollo\\apps\\data_rfid_gen\\datarfidgen\\data_rfid_gen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A6C4238-2C8E-4D0B-B645-F990EDF2551E}|Data_RFID_Gen\\Data_RFID_Gen.csproj|solutionrelative:data_rfid_gen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ediso\\OneDrive\\Documentos\\Desarrollo\\Apps\\Data_RFID_Gen\\DataRFIDGen\\Data_RFID_Gen\\Form1.cs",
+              "RelativeDocumentMoniker": "Data_RFID_Gen\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ediso\\OneDrive\\Documentos\\Desarrollo\\Apps\\Data_RFID_Gen\\DataRFIDGen\\Data_RFID_Gen\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Data_RFID_Gen\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-03T23:35:28.881Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ediso\\OneDrive\\Documentos\\Desarrollo\\Apps\\Data_RFID_Gen\\DataRFIDGen\\Data_RFID_Gen\\Form1.cs",
+              "RelativeDocumentMoniker": "Data_RFID_Gen\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ediso\\OneDrive\\Documentos\\Desarrollo\\Apps\\Data_RFID_Gen\\DataRFIDGen\\Data_RFID_Gen\\Form1.cs",
+              "RelativeToolTip": "Data_RFID_Gen\\Form1.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAArwHkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T04:11:08.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

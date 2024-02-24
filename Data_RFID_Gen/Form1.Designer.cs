@@ -38,7 +38,6 @@
             this.textBox4 = new System.Windows.Forms.TextBox();
             this.textBox5 = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.radioButton1 = new System.Windows.Forms.RadioButton();
@@ -54,7 +53,25 @@
             this.button4 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
+            this.button7 = new System.Windows.Forms.Button();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.label11 = new System.Windows.Forms.Label();
+            this.dtgvBarCode = new System.Windows.Forms.DataGridView();
+            this.dtgvTexto = new System.Windows.Forms.DataGridView();
+            this.dtgvTotal = new System.Windows.Forms.DataGridView();
+            this.button8 = new System.Windows.Forms.Button();
+            this.label12 = new System.Windows.Forms.Label();
+            this.EPC = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.BarCode = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Texto = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.EPCCompleto = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Barcode2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Texto2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dtgvBarCode)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dtgvTexto)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dtgvTotal)).BeginInit();
             this.SuspendLayout();
             // 
             // textBox1
@@ -108,12 +125,6 @@
             resources.ApplyResources(this.label1, "label1");
             this.label1.Name = "label1";
             // 
-            // label6
-            // 
-            resources.ApplyResources(this.label6, "label6");
-            this.label6.Name = "label6";
-            this.label6.Click += new System.EventHandler(this.label6_Click);
-            // 
             // label7
             // 
             resources.ApplyResources(this.label7, "label7");
@@ -147,6 +158,7 @@
             // 
             resources.ApplyResources(this.textBox6, "textBox6");
             this.textBox6.Name = "textBox6";
+            this.textBox6.TextChanged += new System.EventHandler(this.textBox6_TextChanged);
             // 
             // label3
             // 
@@ -211,11 +223,126 @@
             this.button6.UseVisualStyleBackColor = true;
             this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
+            // button7
+            // 
+            resources.ApplyResources(this.button7, "button7");
+            this.button7.Name = "button7";
+            this.button7.UseVisualStyleBackColor = true;
+            this.button7.Click += new System.EventHandler(this.button7_Click);
+            // 
+            // dataGridView1
+            // 
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.EPC});
+            resources.ApplyResources(this.dataGridView1, "dataGridView1");
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.RowHeadersVisible = false;
+            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
+            // 
+            // label11
+            // 
+            resources.ApplyResources(this.label11, "label11");
+            this.label11.Name = "label11";
+            // 
+            // dtgvBarCode
+            // 
+            this.dtgvBarCode.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dtgvBarCode.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.BarCode});
+            resources.ApplyResources(this.dtgvBarCode, "dtgvBarCode");
+            this.dtgvBarCode.Name = "dtgvBarCode";
+            this.dtgvBarCode.RowHeadersVisible = false;
+            // 
+            // dtgvTexto
+            // 
+            this.dtgvTexto.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dtgvTexto.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.Texto});
+            resources.ApplyResources(this.dtgvTexto, "dtgvTexto");
+            this.dtgvTexto.Name = "dtgvTexto";
+            this.dtgvTexto.RowHeadersVisible = false;
+            // 
+            // dtgvTotal
+            // 
+            this.dtgvTotal.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dtgvTotal.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.EPCCompleto,
+            this.Barcode2,
+            this.Texto2});
+            resources.ApplyResources(this.dtgvTotal, "dtgvTotal");
+            this.dtgvTotal.Name = "dtgvTotal";
+            this.dtgvTotal.RowHeadersVisible = false;
+            this.dtgvTotal.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgvTotal_CellContentClick);
+            // 
+            // button8
+            // 
+            resources.ApplyResources(this.button8, "button8");
+            this.button8.Name = "button8";
+            this.button8.UseVisualStyleBackColor = true;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
+            // 
+            // label12
+            // 
+            resources.ApplyResources(this.label12, "label12");
+            this.label12.Name = "label12";
+            this.label12.Click += new System.EventHandler(this.label12_Click);
+            // 
+            // EPC
+            // 
+            this.EPC.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            resources.ApplyResources(this.EPC, "EPC");
+            this.EPC.Name = "EPC";
+            this.EPC.ReadOnly = true;
+            this.EPC.Resizable = System.Windows.Forms.DataGridViewTriState.False;
+            // 
+            // BarCode
+            // 
+            this.BarCode.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            resources.ApplyResources(this.BarCode, "BarCode");
+            this.BarCode.Name = "BarCode";
+            this.BarCode.ReadOnly = true;
+            this.BarCode.Resizable = System.Windows.Forms.DataGridViewTriState.False;
+            // 
+            // Texto
+            // 
+            this.Texto.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            resources.ApplyResources(this.Texto, "Texto");
+            this.Texto.Name = "Texto";
+            this.Texto.ReadOnly = true;
+            this.Texto.Resizable = System.Windows.Forms.DataGridViewTriState.False;
+            // 
+            // EPCCompleto
+            // 
+            resources.ApplyResources(this.EPCCompleto, "EPCCompleto");
+            this.EPCCompleto.Name = "EPCCompleto";
+            this.EPCCompleto.ReadOnly = true;
+            this.EPCCompleto.Resizable = System.Windows.Forms.DataGridViewTriState.False;
+            // 
+            // Barcode2
+            // 
+            resources.ApplyResources(this.Barcode2, "Barcode2");
+            this.Barcode2.Name = "Barcode2";
+            // 
+            // Texto2
+            // 
+            this.Texto2.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            resources.ApplyResources(this.Texto2, "Texto2");
+            this.Texto2.Name = "Texto2";
+            // 
             // Form1
             // 
             resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.LightGray;
+            this.Controls.Add(this.label12);
+            this.Controls.Add(this.button8);
+            this.Controls.Add(this.dtgvTotal);
+            this.Controls.Add(this.dtgvTexto);
+            this.Controls.Add(this.dtgvBarCode);
+            this.Controls.Add(this.label11);
+            this.Controls.Add(this.dataGridView1);
+            this.Controls.Add(this.button7);
             this.Controls.Add(this.button6);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.button4);
@@ -231,7 +358,6 @@
             this.Controls.Add(this.radioButton1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label7);
-            this.Controls.Add(this.label6);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox5);
             this.Controls.Add(this.textBox4);
@@ -246,6 +372,10 @@
             this.Name = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dtgvBarCode)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dtgvTexto)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dtgvTotal)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -262,7 +392,6 @@
         private System.Windows.Forms.TextBox textBox4;
         private System.Windows.Forms.TextBox textBox5;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.RadioButton radioButton1;
@@ -278,6 +407,20 @@
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Button button6;
+        private System.Windows.Forms.Button button7;
+        private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.DataGridView dtgvBarCode;
+        private System.Windows.Forms.DataGridView dtgvTexto;
+        private System.Windows.Forms.DataGridView dtgvTotal;
+        private System.Windows.Forms.Button button8;
+        private System.Windows.Forms.Label label12;
+        private System.Windows.Forms.DataGridViewTextBoxColumn EPC;
+        private System.Windows.Forms.DataGridViewTextBoxColumn BarCode;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Texto;
+        private System.Windows.Forms.DataGridViewTextBoxColumn EPCCompleto;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Barcode2;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Texto2;
     }
 }
 
